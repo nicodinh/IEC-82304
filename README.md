@@ -7,3 +7,4 @@ Health software -- Part 1: General requirements for product safety
 
 ## Resources
 - [IEC 82304-1 - Consequences on agile software development processes](http://blog.cm-dm.com/post/2016/04/08/IEC-82304-1-Consequences-on-agile-software-development-processes)
+- [IEC 82304-1 About the standard on Health Software](http://blog.cm-dm.com/post/2016/01/15/IEC-82304-1-latest-news-about-the-standard-on-Health-Software)
